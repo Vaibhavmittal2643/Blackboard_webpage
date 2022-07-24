@@ -1,0 +1,584 @@
+*{
+    margin: 0px;
+}
+body{
+    overflow-x:none;
+}
+#topbar{
+    width: 100%;
+}
+.menu{
+    list-style: none;
+    top:10px;
+    width: 100%;
+    background-color: black;
+    padding:15px;
+    padding-left: 110px;
+    
+}
+.link{
+    display:inline;
+    font-size: 17px;
+    font-family: source sans pro,serif;
+    margin-right: 30px;
+}
+.menu li a{
+    color: #fefefe;
+    text-decoration: none;
+    font-family: source sans pro,serif;
+    font-weight: bold;
+}
+#topbar2{
+    float: right;
+    margin-right:200px;
+}
+.menu2{
+    list-style: none;
+    top:10px;
+    width: 100%;
+    background-color: black;
+    padding:15px;
+    padding-left: 50px;
+    
+}
+.link2{
+    display:inline;
+    font-size: 17px;
+    font-family: source sans pro,serif;
+    margin-right: 25px;
+}
+.menu2 li a{
+    color: #fefefe;
+    text-decoration: none;
+    font-family: source sans pro,serif;
+    font-weight: bold;
+}
+#topbar3{
+    margin-left:90px;
+    margin-top: 20px;
+    clear: both;
+}
+#topbar3 h1{
+    font-family:"Source Sans Pro SemiBold","serif"; 
+    
+    font-weight:bold;
+    font-size: 45px;
+    color:black;    
+    letter-spacing: 0px;
+    font-weight:bold;
+    padding-left: 15px;
+    height: 3rem;
+}
+#topbar3 h4{
+    font-family: "source sans pro","serif"; 
+    font-weight:bold;
+    margin-top: 0px;
+    font-size: 21px;
+    margin-bottom:  0px ;
+    padding-left: 17px;
+}
+.menu3{
+    list-style: none;
+    margin-top: 1px;
+    width: 100%;
+    padding:15px;
+    clear: both;
+    padding-left: 16px;
+}
+.link3{
+    display:inline;
+    font-size: 16px;
+    margin-right:150px;
+}
+.link32{
+    display:inline;
+    font-size: 16px;
+    margin-right: 0px;
+}
+.menu3 li a{
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+    color: black;
+    font-family: "source sans pro","serif";
+    text-shadow: 0px 0px, 0px 0px, 0px 0px;
+}
+hr{
+    margin-left: 16px;
+    margin-right: 50px;
+    margin-top: 8px;
+}
+#topbar3 button{
+    background-color: #f9a21d;
+    color: black;
+    padding: 13px;
+    font-weight: bold;
+    border-radius: 5px;
+    border: none;
+    font-size: 18px;
+    width: 240px;
+    
+}
+button{
+    float:right ;
+    margin-top: -40px;
+    margin-right: 120px;
+}
+#h52{
+    float: left;
+    font-size: 14px;
+}
+#h51{
+    float: left;
+    margin-right: 35px;
+    font-size: 14px;
+}
+#topbar4{
+    margin-top: 20px;
+    font-family: "source sans pro","serif";
+    font-size: 14px;
+    margin-bottom: 5px;
+    margin-left: 15px;
+}
+#topbar5{
+    background-image: url("imageheader.jpg");
+    margin-top: 60px;
+    height: 590px;
+    width: 100%;
+    position: relative;
+    background-size: cover;
+    
+}
+#top6sub{
+    background-color: black;
+    color: white;
+    position: absolute;
+    left: 250px;
+    top: 40px;
+    width: 32%;
+    text-align: center;
+    font-family: "Source Sans Pro";
+    padding: 20px;
+    height: 460px;
+}
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@900&display=swap');
+#top6sub h1{
+    font-weight: 900;
+    font-size: 35px;
+    margin-top: 27px;
+    font-family: "Source Sans Pro Black";
+    
+}
+#top6sub h3{
+    top:10px;
+    text-align: center;
+    padding: 30px;
+    font-size: 25px;
+}
+#topbar61{
+    float: left;
+    width: 50%;
+    font-family: "source sans pro black";
+    font-weight: bold;
+    margin-top:1200px;
+    margin: 50px;
+    margin-right: 150px;
+    left: 200px;
+    margin-right:-400px;
+}
+#topbar6{
+    clear: both;
+    margin-left: 110px;
+}
+
+#new{
+    margin-top: 60px;
+    margin-left: 100px;
+    margin-bottom: 40px;
+    font-size: 25px;
+    font-family: "source sans pro";
+    font-weight: bold;
+    text-shadow:0px 2px, 2px 0px, 2px 2px ;
+    letter-spacing: 1px;
+}
+#topbar61 h4{
+    font-family: "source sans pro";
+    margin-left: 100px;
+    font-size: 20px;
+    line-height: 35px;
+}
+#topbar62{
+    float: right;
+    width: 50%;
+}
+#topbar62 img{
+    margin-top: 100px;
+    margin-right: 150px;
+    margin-left: -100px;
+    float: right;
+    width:480px;
+}
+#topbar7{
+    background-color: #4776be;
+    clear: both;
+    height: 600px;
+    font-family: "Source Sans Pro";
+    font-size: 35px;
+    color: #fefefe;
+    padding: 50px;
+    padding-left: 280px;
+    width: 100%;
+    padding-top:100px ;
+    margin-top:900px ;
+}
+#sub71{
+    margin-left: 20px;
+    margin-top: -20px;
+    font-family: "Source Sans Pro Light";
+}
+i{
+    margin-left: -20px;
+}
+#sub7{
+    width: 50%;
+    line-height: 50px;
+    font-size: 30px;
+}
+#coma{
+    float:right ;
+    font-size: 40px;
+    margin-right:260px;
+}
+#sub72 img{
+    border-radius: 50%;
+    margin-top: -450px;
+    margin-left:800px;
+    height: 220px;
+    width:220px;
+    float:left;
+}
+#submenu h1{
+    font-size: 35px;
+    font-family:"source sans pro black";
+    margin-left: -20px;
+}
+#submenu h4{
+    font-size: 24px;
+    margin-top: -30px;
+}
+#submenu{
+    padding-left:40px ;
+    margin-top: 50px;
+}
+#read{
+    text-align: center;
+    clear: both;
+    margin-left: 450px;
+    margin-top: 100px;
+    font-size: 21px;
+    border-bottom: 2px solid white;
+    width: fit-content;
+    font-family:"source sans pro light";
+}
+#topbar8{
+    padding-bottom: 100px;
+}
+#topbar8 h1{
+    margin-top: 50px;
+    text-align: center;
+    font-family: "source sans pro black";
+    margin-left:300px;
+    margin-right: 300px;
+    margin-bottom: 75px;
+    font-size: 30px;
+}
+#topbar81{
+    width: 55%;
+    float: left;
+    font-family: "source sans pro";
+}
+#topbar82{
+    width:45%;
+    float: left;
+}
+#topbar81 h3{
+    margin-left: 270px;
+    font-size: 24px;
+    font-family: "source sans pro black";
+    margin-bottom: 50px;
+}
+#topbar81 h5{
+    margin-left: 270px;
+    margin-right: 50px;
+    font-size: 19px;
+}
+#topbar82 img{
+    width:550px;
+    height: 280px;
+    margin-left: 20px;
+}
+#topbar83{
+    border:3px solid #4776be;
+    width: 180px;
+    color:#4776be;
+    font-family: "source sans pro black";
+    text-align: center;
+    margin-left: 460px;
+    margin-top:40px;
+    padding: 18px 35px;
+    font-size: 18px;
+}
+#topbar9{
+    background-color: #f8f8f8;
+    margin-top: 18%;
+    padding-top: 100px;
+    height: 60%;
+    font-family: "source sans pro";
+}
+#topbar91{
+    width: 45%;
+    margin-left: 200px;
+    float: left;
+}
+#topbar91 img{
+    height: 300px;
+    width: 520px;
+}
+#topbar92{
+    float: right;
+    width: 45%;
+    margin-top: -300px;
+}
+#topbar92 h3{
+    font-size: 24px;
+    font-family: "source sans pro black";
+    margin-bottom: 50px;
+    margin-left: 20px;
+}
+#topbar92 h5{
+    margin-right: 120px;
+    margin-left: 20px;
+    font-size: 19px;
+}
+#topbar93{
+    border:3px solid #4776be;
+    width: 180px;
+    color:#4776be;
+    font-family: "source sans pro black";
+    text-align: center;
+    margin-left: 120px;
+    margin-top:40px;
+    padding: 18px 35px;
+    font-size: 18px;
+}
+#topbar10{
+    margin-top:50px;
+    font-family: "source sans pro";
+    margin-right:10px ;
+}
+#topbar10 h1{
+    font-family: "source sans pro black";
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 70px;
+}
+#div1{
+    border: 1px solid black;
+    margin-left: 250px;
+    width: 312px;
+    height: 400px;
+    float: left;
+}
+#div1 h4{
+    margin-top: 10px;
+    margin-left: 20px;
+    font-family: "source sans pro semibold";
+}
+#div1 img{
+    width: 312px;
+    
+}
+#div1 h2{
+    margin-left: 20px;
+    font-size: 22px;
+    color: #4776be;
+    font-family: "source sans pro black";
+}
+#div1 h3{
+    margin-left: 20px;
+    font-family: "source sans pro";
+    font-size: 17px;
+    margin-right: 20px;
+}
+
+#div2{
+    border: 1px solid black;
+    margin-left: 200px;
+    width: 312px;
+    height: 400px;
+    float: left;
+    margin-left: 40px;
+}
+#div2 h4{
+    margin-left: 20px;
+    font-family: "source sans pro semibold";
+    margin-top: 10px;
+}
+#div2 img{
+    width: 312px;
+    text-align: center;
+}
+#div2 h2{
+    margin-left: 20px;
+    font-size: 22px;
+    color: #4776be;
+    font-family: "source sans pro black";
+}
+#div2 h3{
+    margin-left: 20px;
+    font-family: "source sans pro";
+    font-size: 17px;
+    margin-right: 20px;
+}
+
+
+#div3{
+    border: 1px solid black;
+    margin-left: 200px;
+    width: 312px;
+    height: 400px;
+    float: left;
+    margin-left: 40px;
+}
+#div3 h4{
+    margin-left: 20px;
+    font-family: "source sans pro semibold";
+    margin-top: 10px;
+}
+#div3 img{
+    width: 312px;
+    text-align: center;
+}
+#div3 h2{
+    margin-left: 20px;
+    font-size: 22px;
+    color: #4776be;
+    font-family: "source sans pro black";
+}
+#div3 h3{
+    margin-left: 20px;
+    font-family: "source sans pro";
+    font-size: 17px;
+    margin-right: 20px;
+}
+
+
+#div4{
+    border: 1px solid black;
+    margin-left: 200px;
+    width: 312px;
+    height: 400px;
+    float: left;
+    margin-left: 250px;
+    margin-top: 50px;
+    margin-bottom: 80px;
+}
+#div4 h4{
+    margin-left: 20px;
+    font-family: "source sans pro semibold";
+    margin-top: 10px;
+}
+#div4 img{
+    width: 312px;
+    text-align: center;
+}
+#div4 h2{
+    margin-left: 20px;
+    font-size: 22px;
+    color: #4776be;
+    font-family: "source sans pro black";
+}
+#div4 h3{
+    margin-left: 20px;
+    font-family: "source sans pro";
+    font-size: 17px;
+    margin-right: 20px;
+}
+#topbar11{
+    clear: both;
+   padding-top: 60px;
+    background-color: black;
+    color: #f8f8f8;
+    font-family: "source sans pro";
+    height: 200px;
+}
+#topbar11 h1{
+    font-size: 28px;
+    font-family:"source sans pro black" ;
+    text-align: center;
+}
+#topbar11 button{
+    background-color: #f9a21d;
+    color: black;
+    padding: 13px;
+    font-weight: bold;
+    border-radius: 5px;
+    border: none;
+    font-size: 18px;
+    width: 240px;
+    margin-right: 620px;
+    margin-top: 30px;
+}
+#topbar12{
+    background-color: #fefefe;
+    font-family: "source sans pro";
+    margin-top: 50px;
+    padding-bottom: 200px;
+}
+#topbar121{
+    float: left;
+}
+#topbar122{
+    float:right;
+    margin-top: 10px;
+    margin-right: 50px;
+}
+.menu5{
+    list-style: none;
+    margin-top: 1px;
+    width: 100%;
+    padding:15px;
+    clear: both;
+    padding-left: 16px;
+
+}
+.link5{
+    display: inline;
+}
+.link5 a{
+    font-size: 17px;
+    margin-right: 20px;
+    color: black;
+    text-decoration: none;
+    font-family: "source sans pro semibold";
+}
+#topbar121 h1{
+    padding-left: 100px;
+    font-family: "source sans pro semibold";
+    font-size: 38px;
+}
+#topbar121 h4{
+    padding-left: 100px;
+    font-family: "source sans pro semibold";
+    margin-top: -5px;
+}
+#topbar123{
+    float: left;
+    margin-right: 1000px;
+    margin-top: 10px;
+}
+#topbar124{
+    float: right;
+    margin-right: 75px;
+    margin-top: -30px;
+}
